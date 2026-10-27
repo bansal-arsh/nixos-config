@@ -1,0 +1,5 @@
+require("endofunctor.remap")
+require("endofunctor.settings")
+require("endofunctor.autocmds")
+-- require("endofunctor.plug")
+require("endofunctor.lsp")
